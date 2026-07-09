@@ -1,6 +1,6 @@
 # BS Generator
 
-[![Test Package](https://github.com/swe-students-spring2026/3-package-polar_bear/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/swe-students-spring2026/3-package-polar_bear/actions/workflows/test.yml)
+[![Test Package](https://github.com/TangelinaWu/EyeWrite/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/TangelinaWu/EyeWrite/actions/workflows/test.yml)
 
 BS Generator is a lightweight Python package that transforms plain text into fun internet-style output.
 It currently includes three mutators:
@@ -133,8 +133,8 @@ emoji_mutator("your sentence here", color="green")
 ### Clone and Set Up Environment
 
 ```bash
-git clone https://github.com/swe-students-spring2026/3-package-polar_bear.git
-cd 3-package-polar_bear
+git clone https://github.com/TangelinaWu/EyeWrite.git
+cd EyeWrite
 pipenv install --dev
 ```
 
