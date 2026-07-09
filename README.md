@@ -1,5 +1,6 @@
 # BS Generator
 
+[![Test Package](https://github.com/TangelinaWu/EyeWrite/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/TangelinaWu/EyeWrite/actions/workflows/test.yml)
 
 ## About this package
 
@@ -14,6 +15,15 @@ you covered. No serious software here, just good vibes.
 - [Frank](https://github.com/HandEater)
 - [Angelina]()
 - [Howard](https://github.com/hewlett-packard-lovecraft)
+
+---
+
+## Clone and Set Up Environment
+
+```bash
+git clone https://github.com/TangelinaWu/EyeWrite.git
+cd EyeWrite
+```
 
 ---
 
